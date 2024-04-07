@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="primary">#0056b3</color>              <!-- Keep primary -->
+    <color name="primary_dark">#004494</color>         <!-- Even darker variant of primary for elevated elements -->
+    <color name="accent">#FFA000</color>               <!-- Adjusted for night mode to be less bright -->
+    <color name="background">#1E1E1E</color>           <!-- Dark grey for main backgrounds -->
+    <color name="text">#E0E0E0</color>                 <!-- Light grey for text -->
+    <color name="input_background">#2d2e35</color>     <!-- Matches the avatar hair color -->
+    <color name="alternate">#151515</color>     <!-- Matches Avatar Background -->
+</resources>

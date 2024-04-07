@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="primary">#007BFF</color>           <!-- A vibrant blue -->
+    <color name="primary_dark">#0056b3</color>      <!-- Darker variant of primary -->
+    <color name="accent">#FFC107</color>            <!-- A bright orange -->
+    <color name="background">#E0E0E0</color>        <!-- Off-white -->
+    <color name="text">#212121</color>              <!-- Dark grey -->
+    <color name="input_background">#F5EEE5</color>  <!-- Matches Avatar Background -->
+    <color name="alternate">#EAEAEA</color>  <!-- Matches Avatar Background -->
+</resources>
